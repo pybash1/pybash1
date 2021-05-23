@@ -88,7 +88,7 @@ class PyBash():
 <br />
 <br />
 
-<--<!--START_SECTION:activity-->
+<!--START_SECTION:activity-->
 
 <br />
 <br />
