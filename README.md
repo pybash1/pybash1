@@ -88,6 +88,7 @@ class PyBash():
 <br />
 <br />
 
+## My Recent GitHub Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#14](https://github.com/pybash1/py_everything/issues/14) in [pybash1/py_everything](https://github.com/pybash1/py_everything)
 2. 🎉 Merged PR [#15](https://github.com/pybash1/py_everything/pull/15) in [pybash1/py_everything](https://github.com/pybash1/py_everything)
@@ -99,6 +100,7 @@ class PyBash():
 <br />
 <br />
 
+## What I Worked On
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
