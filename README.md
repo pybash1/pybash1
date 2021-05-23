@@ -41,11 +41,11 @@ class PyBash():
 
 ## Socials
 <p align='center'>
-    <a href='https://dev.to/pybash'><img src='https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/dev-dot-to.svg' alt='dev-dot-to' width='50px'></a>
+    <a href='https://dev.to/pybash'><img height="50px" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/dev-dot-to.svg" /></a>
     &nbsp&nbsp
-    <a href='https://discord.gg/DUeaUDxC7t'><img src='https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg' alt='discord' width='50px'></a>
+    <a href='https://discord.gg/DUeaUDxC7t'><img height="50px" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/discord.svg" /></a>
     &nbsp&nbsp
-    <a href='https://github.com/pybash1'><img src='https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg' alt='github' width='50px'></a>
+    <a href='https://github.com/pybash1'><img height="50px" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg" /></a>
 </p>
 
 ## What I Use
