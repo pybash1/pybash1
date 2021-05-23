@@ -99,6 +99,12 @@ class PyBash():
 <br />
 <br />
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<br />
+<br />
+
 <p align='center'>
     <img src="https://github-readme-stats.vercel.app/api?username=pybash1&show_icons=true&theme=gotham" alt="pybash stats">
 </p>
