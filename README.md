@@ -90,11 +90,11 @@ class PyBash():
 
 ## My Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/pybash1/py_everything/issues/14) in [pybash1/py_everything](https://github.com/pybash1/py_everything)
-2. 🎉 Merged PR [#15](https://github.com/pybash1/py_everything/pull/15) in [pybash1/py_everything](https://github.com/pybash1/py_everything)
-3. 🎉 Merged PR [#13](https://github.com/pybash1/py_everything/pull/13) in [pybash1/py_everything](https://github.com/pybash1/py_everything)
-4. 🗣 Commented on [#13](https://github.com/pybash1/py_everything/issues/13) in [pybash1/py_everything](https://github.com/pybash1/py_everything)
-5. 🎉 Merged PR [#9](https://github.com/pybash1/py_everything/pull/9) in [pybash1/py_everything](https://github.com/pybash1/py_everything)
+1. 💪 Opened PR [#6](https://github.com/Morgan-Phoenix/EnroCrypt/pull/6) in [Morgan-Phoenix/EnroCrypt](https://github.com/Morgan-Phoenix/EnroCrypt)
+2. 🗣 Commented on [#14](https://github.com/pybash1/py_everything/issues/14) in [pybash1/py_everything](https://github.com/pybash1/py_everything)
+3. 🎉 Merged PR [#15](https://github.com/pybash1/py_everything/pull/15) in [pybash1/py_everything](https://github.com/pybash1/py_everything)
+4. 🎉 Merged PR [#13](https://github.com/pybash1/py_everything/pull/13) in [pybash1/py_everything](https://github.com/pybash1/py_everything)
+5. 🗣 Commented on [#13](https://github.com/pybash1/py_everything/issues/13) in [pybash1/py_everything](https://github.com/pybash1/py_everything)
 <!--END_SECTION:activity-->
 
 <br />
