@@ -90,11 +90,11 @@ class PyBash():
 
 ## My Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8](https://github.com/Morgan-Phoenix/EnroCrypt/pull/8) in [Morgan-Phoenix/EnroCrypt](https://github.com/Morgan-Phoenix/EnroCrypt)
-2. 🎉 Merged PR [#22](https://github.com/pybash1/py_everything/pull/22) in [pybash1/py_everything](https://github.com/pybash1/py_everything)
-3. 🗣 Commented on [#7](https://github.com/Morgan-Phoenix/EnroCrypt/issues/7) in [Morgan-Phoenix/EnroCrypt](https://github.com/Morgan-Phoenix/EnroCrypt)
-4. ❗️ Opened issue [#7](https://github.com/Morgan-Phoenix/EnroCrypt/issues/7) in [Morgan-Phoenix/EnroCrypt](https://github.com/Morgan-Phoenix/EnroCrypt)
-5. 🗣 Commented on [#2](https://github.com/Morgan-Phoenix/EnroCrypt/issues/2) in [Morgan-Phoenix/EnroCrypt](https://github.com/Morgan-Phoenix/EnroCrypt)
+1. 🗣 Commented on [#8](https://github.com/Morgan-Phoenix/EnroCrypt/issues/8) in [Morgan-Phoenix/EnroCrypt](https://github.com/Morgan-Phoenix/EnroCrypt)
+2. 🗣 Commented on [#8](https://github.com/Morgan-Phoenix/EnroCrypt/issues/8) in [Morgan-Phoenix/EnroCrypt](https://github.com/Morgan-Phoenix/EnroCrypt)
+3. 💪 Opened PR [#8](https://github.com/Morgan-Phoenix/EnroCrypt/pull/8) in [Morgan-Phoenix/EnroCrypt](https://github.com/Morgan-Phoenix/EnroCrypt)
+4. 🎉 Merged PR [#22](https://github.com/pybash1/py_everything/pull/22) in [pybash1/py_everything](https://github.com/pybash1/py_everything)
+5. 🗣 Commented on [#7](https://github.com/Morgan-Phoenix/EnroCrypt/issues/7) in [Morgan-Phoenix/EnroCrypt](https://github.com/Morgan-Phoenix/EnroCrypt)
 <!--END_SECTION:activity-->
 
 <br />
