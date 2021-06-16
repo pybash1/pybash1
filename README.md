@@ -90,11 +90,11 @@ class PyBash():
 
 ## My Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#24](https://github.com/pybash1/py_everything/issues/24) in [pybash1/py_everything](https://github.com/pybash1/py_everything)
-2. ❗️ Closed issue [#1](https://github.com/pybash1/emuthon/issues/1) in [pybash1/emuthon](https://github.com/pybash1/emuthon)
-3. 🗣 Commented on [#1](https://github.com/pybash1/emuthon/issues/1) in [pybash1/emuthon](https://github.com/pybash1/emuthon)
-4. 🎉 Merged PR [#23](https://github.com/pybash1/py_everything/pull/23) in [pybash1/py_everything](https://github.com/pybash1/py_everything)
-5. 🗣 Commented on [#23](https://github.com/pybash1/py_everything/issues/23) in [pybash1/py_everything](https://github.com/pybash1/py_everything)
+1. 🎉 Merged PR [#28](https://github.com/pybash1/py_everything/pull/28) in [pybash1/py_everything](https://github.com/pybash1/py_everything)
+2. 🗣 Commented on [#24](https://github.com/pybash1/py_everything/issues/24) in [pybash1/py_everything](https://github.com/pybash1/py_everything)
+3. ❗️ Closed issue [#1](https://github.com/pybash1/emuthon/issues/1) in [pybash1/emuthon](https://github.com/pybash1/emuthon)
+4. 🗣 Commented on [#1](https://github.com/pybash1/emuthon/issues/1) in [pybash1/emuthon](https://github.com/pybash1/emuthon)
+5. 🎉 Merged PR [#23](https://github.com/pybash1/py_everything/pull/23) in [pybash1/py_everything](https://github.com/pybash1/py_everything)
 <!--END_SECTION:activity-->
 
 <br />
