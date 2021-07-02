@@ -88,25 +88,8 @@ class PyBash():
 <br />
 <br />
 
-## My Recent GitHub Activity
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#31](https://github.com/pybash1/py_everything/issues/31) in [pybash1/py_everything](https://github.com/pybash1/py_everything)
-2. 🎉 Merged PR [#28](https://github.com/pybash1/py_everything/pull/28) in [pybash1/py_everything](https://github.com/pybash1/py_everything)
-3. 🗣 Commented on [#24](https://github.com/pybash1/py_everything/issues/24) in [pybash1/py_everything](https://github.com/pybash1/py_everything)
-4. ❗️ Closed issue [#1](https://github.com/pybash1/emuthon/issues/1) in [pybash1/emuthon](https://github.com/pybash1/emuthon)
-5. 🗣 Commented on [#1](https://github.com/pybash1/emuthon/issues/1) in [pybash1/emuthon](https://github.com/pybash1/emuthon)
-<!--END_SECTION:activity-->
-
-<br />
-<br />
-
-## What I Worked On
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<br />
-<br />
-
+## My Stats
 <p align='center'>
-    <img src="https://github-readme-stats.vercel.app/api?username=pybash1&show_icons=true&theme=gotham" alt="pybash stats">
+    <img src="https://raw.githubusercontent.com/pybash1/github-stats/master/generated/overview.svg" alt="pybash stats overview">
+    <img src="https://raw.githubusercontent.com/pybash1/github-stats/master/generated/languages.svg" alt="pybash stats langs">
 </p>
