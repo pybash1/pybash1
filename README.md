@@ -1,96 +1,48 @@
-```python
-class PyBash():
-    def __init__():
-        self.primaryLanguage = "Python"
-        self.secondaryLanguage = "JavaScript"
-        self.likeWebDev = True
-        self.likesGUI = True
-        self.likesCLI = True
-        self.hasBlog = True
-        self.hasOwnLibrary = True
-        
-     def Projects():
-        hasProjectsOnGitHub = True
-        canIVisitThem = 'yes'
-        guiProjects = '''
-                         1. UnHackable
-                         2. WorldWideWebSearch
-                         3. SimpleNotepad
-                         4. Emuthon
-                      '''
-        cliProjects = '''
-                         1. setupPyGen - A Python Library Project Structure and boilerplate generator. Part of py-everything.
-                         2. gitIt - A GitHub friendly git project structure and boilerplate generator. Part of py-everything.
-                      '''
-        webProjects = '''
-                         1. names-api - An API made in Flask.
-                         2. UnHackable Website - The UnHackable Website.
-                      '''
-        
-     def Blog():
-        blog = 'https://dev.to/pybash'
-        blogHasArticles = True
-        shouldIVisitIt = 'Of, Course'
-        
-     def Library():
-        name = 'py-everything'
-        availableOnPypi = True
-        link = 'https://pypi.org/project/py-everything'
-        libraryDescription = 'A library that aims to do all you need without thousand imports.'
-```
+<!--https://discord.gg/DUeaUDxC7t
+https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg
+https://raw.githubusercontent.com/pybash1/github-stats/master/generated/overview.svg
+https://raw.githubusercontent.com/pybash1/github-stats/master/generated/languages.svg-->
+# Hi, there 👋
+Welcome to my profile! I am PyBash, a **Python (Backend) developer**, learning frontend development with **ReactJS and Svelte**!
 
-## Socials
-<p align='center'>
-    <a href='https://dev.to/pybash'><img height="50px" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/dev-dot-to.svg" /></a>
-    &nbsp&nbsp
-    <a href='https://discord.gg/DUeaUDxC7t'><img height="50px" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/discord.svg" /></a>
-    &nbsp&nbsp
-    <a href='https://github.com/pybash1'><img height="50px" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg" /></a>
+![GitHub followers](https://img.shields.io/github/followers/pybash1?label=Follow&style=social)
+
+## About Myself
+- 🔏Unknown aged
+- 🌐Like to build websites
+- 🏫Learning Frontend development
+- 💻Backend developer
+- 🙃Love linux, but use Windows
+- 👀Some big repositories are going to become public soon
+
+## My Stack
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50px"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="50px"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="50px"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50px"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" width="50px"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" width="50px"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="50px"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50px"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50px"></img>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" width="50px"></img>
+<img src="https://raw.githubusercontent.com/github/explore/379d49236d826364be968345e0a085d044108cff/topics/windows/windows.png" width="50px"></img>
+
+## Projects
+<p align="center">
+<a href="https://github.com/pybash1/py_everything"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pybash1&repo=py_everything&bg_color=22272E&text_color=2FBD90&hide_border=true" width="380"></a>
+<a href="https://github.com/CutCode-org/CutCode-svelte"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CutCode-org&repo=CutCode-Svelte&bg_color=22272E&text_color=2FBD90&hide_border=true" width="380"></a>
 </p>
 
-## What I Use
-<p align='center'>
-    <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg' alt='python' width='50px'>
-    &nbsp&nbsp
-    <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg' alt='html5' width='50px'>
-    &nbsp&nbsp
-    <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg' alt='js' width='50px'>
-    &nbsp&nbsp
-    <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg' alt='bash' width='50px'>
-    &nbsp&nbsp
-    <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg' alt='bootstrap' width='50px'>
-    &nbsp&nbsp
-    <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg' alt='chrome' width='50px'>
-    &nbsp&nbsp
-    <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg' alt='css3' width='50px'>
-    &nbsp&nbsp
-    <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg' alt='express' width='50px'>
-    &nbsp&nbsp
-    <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg' alt='flask' width='50px'>
-    &nbsp&nbsp
-    <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg' alt='git' width='50px'>
-    &nbsp&nbsp
-    <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg' alt='github' width='50px'>
-    &nbsp&nbsp
-    <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg' alt='heroku' width='50px'>
-    &nbsp&nbsp
-    <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg' alt='node' width='50px'>
-    &nbsp&nbsp
-    <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg' alt='ps' width='50px'>
-    &nbsp&nbsp
-    <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg' alt='sass' width='50px'>
-    &nbsp&nbsp
-    <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg' alt='trello' width='50px'>
-    &nbsp&nbsp
-    <img src='https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg' alt='vsc' width='50px'>
+## Stats
+<p align="center">
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=pybash1&show_icons=true&include_all_commits=true&hide_border=true&bg_color=22272e&color=9BE8A8&text_color=2FBD90&line=9BE8A8&point=40C363"></a>
+<a href="#"><img src="http://github-readme-streak-stats.herokuapp.com?user=pybash1&theme=nightowl&hide_border=true&background=22272E&sideLabels=9BE9A8&sideNums=9BE9A8&dates=9BE9A8&ring=40C463&stroke=22272E&fire=40C463&currStreakNum=40C463&currStreakLabel=40C463"></a>
 </p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pybash1&exclude_repo=dotfiles&hide_title=true&hide=html,css&layout=compact&bg_color=22272E&text_color=2FBD90&hide_border=true" /></p>
+<img src="https://activity-graph.herokuapp.com/graph?username=pybash1&bg_color=22272e&color=9BE8A8&line=9BE8A8&point=40C363&area=false&hide_border=true">
 
-<br />
-<br />
+## Connect
+<a href="https://discordapp.com/users/606082008552308736"><img src="https://www.svgrepo.com/show/353655/discord-icon.svg" width="40"></a>
 
-## My Stats
-<p align='center'>
-    <img src="https://raw.githubusercontent.com/pybash1/github-stats/master/generated/overview.svg" alt="pybash stats overview">
-    <img src="https://raw.githubusercontent.com/pybash1/github-stats/master/generated/languages.svg" alt="pybash stats langs">
-</p>
-![](https://hit.yhype.me/github/profile?user_id=67195650)
+Tag: pybash#3122
