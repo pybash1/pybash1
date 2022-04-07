@@ -1,21 +1,18 @@
-<!--https://discord.gg/DUeaUDxC7t
-https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg
-https://raw.githubusercontent.com/pybash1/github-stats/master/generated/overview.svg
-https://raw.githubusercontent.com/pybash1/github-stats/master/generated/languages.svg-->
 # Hi, there 👋
 Welcome to my profile! I am PyBash, a **Python (Backend) developer**, learning frontend development with **ReactJS and Svelte**!
 
 ![GitHub followers](https://img.shields.io/github/followers/pybash1?label=Follow&style=social)
 
 ## About Myself
-- 🔏Unknown aged
-- 🌐Like to build websites
-- 🏫Learning Frontend development
-- 💻Backend developer
-- 🙃Love linux, but use Windows
-- 👀Some big repositories are going to become public soon
+- 🔏 Unknown aged
+- 🌐 Like to build websites
+- 🏫 Learning Frontend development
+- 💻 Backend developer
+- 🙃 Love linux, but use Windows
+- 👀 Some big repositories are going to become public soon
 
 ## My Stack
+<p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50px"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="50px"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="50px"></img>
@@ -27,6 +24,7 @@ Welcome to my profile! I am PyBash, a **Python (Backend) developer**, learning f
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50px"></img>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" width="50px"></img>
 <img src="https://raw.githubusercontent.com/github/explore/379d49236d826364be968345e0a085d044108cff/topics/windows/windows.png" width="50px"></img>
+</p>
 
 ## Projects
 <p align="center">
@@ -43,6 +41,6 @@ Welcome to my profile! I am PyBash, a **Python (Backend) developer**, learning f
 <img src="https://activity-graph.herokuapp.com/graph?username=pybash1&bg_color=22272e&color=9BE8A8&line=9BE8A8&point=40C363&area=false&hide_border=true">
 
 ## Connect
-<a href="https://discordapp.com/users/606082008552308736"><img src="https://www.svgrepo.com/show/353655/discord-icon.svg" width="40"></a>
+<a href="https://discord.gg/DUeaUDxC7t"><img src="https://www.svgrepo.com/show/353655/discord-icon.svg" width="40"></a>
 
 Tag: pybash#3122
