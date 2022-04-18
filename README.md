@@ -30,6 +30,7 @@ Welcome to my profile! I am PyBash, a **Python (Backend) developer**, learning f
 <p align="center">
 <a href="https://github.com/pybash1/py_everything"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pybash1&repo=py_everything&bg_color=22272E&text_color=2FBD90&hide_border=true" width="380"></a>
 <a href="https://github.com/CutCode-org/CutCode-svelte"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CutCode-org&repo=CutCode-Svelte&bg_color=22272E&text_color=2FBD90&hide_border=true" width="380"></a>
+<a href="https://github.com/Cotidie-project/backend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Cotidie-project&repo=backend&bg_color=22272E&text_color=2FBD90&hide_border=true" width="380"></a>
 </p>
 
 ## Stats
