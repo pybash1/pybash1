@@ -15,6 +15,9 @@ I've been learning to code for around 5 years now. I started with HTML like ever
 <a href="https://www.github.com/pybash1" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/github/followers/pybash1?logo=github&style=for-the-badge&color=3382ed&labelColor=0f172a" />
 </a>
+<a href="https://www.twitter.com/py_bash1" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/twitter/follow/py_bash1?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"/>
+</a>
 
 ### Skills
 <p align="left">
@@ -41,7 +44,17 @@ I've been learning to code for around 5 years now. I started with HTML like ever
 
 ### Socials
 
-<p align="left"> <a href="https://www.dev.to/pybash" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" width="32" height="32" /></a> <a href="https://discord.com/users/626461325744275464" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/pybash1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://pybash.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="http://pybash.medium.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a></p>
+<p align="left">
+  <a href="https://discord.com/users/626461325744275464" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
+  </a>
+  <a href="https://www.github.com/pybash1" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" />
+  </a>
+  <a href="https://pybash.hashnode.dev" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" />
+  </a>
+</p>
 
 ### Badges
 
