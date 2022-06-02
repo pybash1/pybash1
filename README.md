@@ -71,11 +71,14 @@ I've been learning to code for around 5 years now. I started with HTML like ever
 <b>Top Repositories</b>
 
 <div width="100%" align="center">
-  <a href="https://github.com/pybash1/backend" align="left">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=pybash1&repo=backend&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en" />
+  <a href="https://github.com/pybash1/befit" align="left">
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=pybash1&repo=befit&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en" />
   </a>
   <a href="https://github.com/pybash1/py_everything" align="right">
     <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=pybash1&repo=py_everything&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en" />
+  </a>
+  <a href="https://github.com/pybash1/backend" align="left">
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=pybash1&repo=backend&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en" />
   </a>
 </div>
 <br />
@@ -83,15 +86,10 @@ I've been learning to code for around 5 years now. I started with HTML like ever
   <a href="https://github.com/Cotidie-project/backend" align="left">
     <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Cotidie-project&repo=backend&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en" />
   </a>
-  <a href="https://github.com/CutCode-org/CutCode-svelte" align="right">
-    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=CutCode-org&repo=CutCode-svelte&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en" />
+  <a href="https://github.com/pybash1/portfolio" align="right">
+    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=pybash1&repo=portfolio&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en" />
+  </a>
+  <a href="https://github.com/CutCode-org/CutCode-svelte" align="left">
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=CutCode-org&repo=CutCode-svelte&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en" />
   </a>
 </div>
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-![](https://hit.yhype.me/github/profile?user_id=67195650)
