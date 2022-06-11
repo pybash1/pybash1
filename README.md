@@ -8,8 +8,8 @@ I've been learning to code for around 5 years now. I started with HTML like ever
 
 *   🌍  I'm based in India
 *   🖥️  See my portfolio [here](http://pybash.vercel.app)
-*   🚀  I'm currently working on [BeFit](http://befit-tracker.vercel.app)
-*   🧠  I'm learning React and Flutter
+*   🚀  I'm currently working on [Solodustries](https://github.com/pybash1/solodustries)
+*   🧠  I'm learning NextJS and TypeScript
 *   🤝  I'm open to collaborating on interesting projects
 *   ⚡  I have some interesting projects, coming up!
 <a href="https://www.github.com/pybash1" target="_blank" rel="noreferrer">
