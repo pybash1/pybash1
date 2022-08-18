@@ -7,9 +7,9 @@ Backend Developer
 I've been learning to code for around 5 years now. I started with HTML like everybody but eventually landed on Python and I have loved it ever since, although recently I'm looking into other languages, technologies, and frameworks besides Python. I really have a passion for command-line tools as well as backend development.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [here](http://ax.is-a.dev)
+* 🖥️  See my portfolio at [here](http://pybash.vercel.app)
 * ✉️  You can contact me at [pybash#3122](mailto:pybash#3122)
-* 🚀  I'm currently working on [Learnist](http://learnist.vercel.app)
+* 🚀  I'm currently working on [authdeck](http://authdeck.xyz)
 * 🧠  I'm learning Web3
 * 🤝  I'm open to collaborating on Interesting Projects
 
