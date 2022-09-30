@@ -7,9 +7,9 @@ Web Developer
 I've been learning to code for around 5 years now. I started with HTML like everybody but eventually landed on Python and I have loved it ever since, although recently I'm looking into other languages, technologies, and frameworks besides Python. I really have a passion for command-line tools as well as backend development.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [here](http://pybash.is-a.dev)
-* ✉️  You can contact me at [pybash@authdeck.xyz](mailto:pybash@authdeck.xyz)
-* 🚀  I'm currently working on [cesta](http://cesta-project.vercel.app)
+* 🖥️  See my portfolio at [here](http://pybash.xyz)
+* ✉️  You can contact me at [hi@pybash.xyz](mailto:hi@pybash.xyz)
+* 🚀  I'm currently working on [cesta](http://cesta.wiki)
 * 🧠  I'm learning Web3
 * 🤝  I'm open to collaborating on Interesting Projects
 
@@ -56,7 +56,7 @@ src="https://img.shields.io/github/followers/pybash1?logo=github&style=for-the-b
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/626461325744275464" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/pybash1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://axblog.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/py_bash1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://discord.com/users/626461325744275464" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/pybash1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://pybash.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/py_bash1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
