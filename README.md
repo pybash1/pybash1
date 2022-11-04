@@ -7,9 +7,9 @@ Web Developer
 I've been learning to code for around 5 years now. I started with HTML like everybody but eventually landed on Python and I have loved it ever since, although recently I'm looking into other languages, technologies, and frameworks besides Python. I really have a passion for command-line tools as well as backend development.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [here](http://pybash.xyz)
+* 🖥️  See my portfolio [here](https://pybash.xyz)
 * ✉️  You can contact me at [hi@pybash.xyz](mailto:hi@pybash.xyz)
-* 🚀  I'm currently working on [cesta](http://cesta.wiki)
+* 🚀  I'm currently working on [tolyto](https://githubc.com/tolyto)
 * 🧠  I'm learning Web3
 * 🤝  I'm open to collaborating on Interesting Projects
 
