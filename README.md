@@ -9,7 +9,7 @@ I've been learning to code for around 5 years now. I started with HTML like ever
 * 🌍  I'm based in India
 * 🖥️  See my portfolio [here](https://pybash.xyz)
 * ✉️  You can contact me at [hi@pybash.xyz](mailto:hi@pybash.xyz)
-* 🚀  I'm currently working on [tolyto](https://githubc.com/tolyto)
+* 🚀  I'm currently working on [Solo](https://solo.pybash.xyz)
 * 🧠  I'm learning Web3
 * 🤝  I'm open to collaborating on Interesting Projects
 
